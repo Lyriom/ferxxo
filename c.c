@@ -19,5 +19,7 @@ int main(int argc, char const *argv[])
     int res = sumar(num1, num2);
     printf("el resultado de la suma es: %d", res);
     printf ("hola infiel");
+    printf ("hola infiel 2");
+
     return 0;
 }
